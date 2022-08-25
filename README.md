@@ -1,4 +1,4 @@
-### Hi there I'm Zar, SPBPU Computer Science Student and Intern Android Developer👋
+### Hi there I'm Zar, SPBPU Computer Science Student and Junior Android Developer👋
 
 - 💪 I like to write a lot of code
 - 🌱 I’m currently learning Kotlin + Android
